@@ -1,0 +1,15 @@
+From: priya.nair@ourcompany.com
+To: team-cs@ourcompany.com
+Date: 2026-05-12
+Subject: Acme Pay onboarding kickoff
+
+Team,
+
+Kicked off onboarding with Acme Pay this morning. Their main point of
+contact is Sarah Chen (sarah.chen@acmepay.com), who's running the
+integration on their side.
+
+Sarah flagged that they need SSO working before they can go live. I told
+her Eng would scope it this week. Can someone on Eng confirm?
+
+Priya

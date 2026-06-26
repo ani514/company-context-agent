@@ -1,0 +1,15 @@
+From: finance@ourcompany.com
+To: priya.nair@ourcompany.com
+Date: 2026-05-20
+Subject: RE: invoice — Acme Payments, Inc.
+
+Priya,
+
+Confirming we received the signed agreement from Acme Payments, Inc.
+First invoice ($48,000, annual) is paid. Vendor record is set up under
+their domain acmepay.com.
+
+Note for your files: their billing contact is S. Chen — same person you've
+been working with on the integration, I believe.
+
+Finance
